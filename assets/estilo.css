@@ -6,8 +6,11 @@
 .cartao{
 background-color: blueviolet;
 color: aliceblue;
-
-
+border-radius: 20px;
+height: 20rem;
+flex-grow: ;
+flex-basis: calc();
+margin: 1rem 1rem;
 }
 
 
