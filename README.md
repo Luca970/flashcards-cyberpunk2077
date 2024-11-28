@@ -1,2 +1,2 @@
-# flashcards-cyberpunk2077
+# cyberpunk
 n quero
