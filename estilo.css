@@ -1,5 +1,5 @@
 body{
-    background-image: url("./fundo.png");
+    background-color: purple;
 }
 
 
@@ -8,7 +8,7 @@ body{
 
 }
 .cartao{
-background-color: purple;
+background-color: yellow;
 color: hsl(56, 100%, 72%);
 border-radius: 20px;
 height:20rem;
@@ -20,11 +20,11 @@ text-align: center;
 }
 
 .cartao{
-    background-color: purple;
+    background-color: yellow;
     border-radius: 20px;
 }
 .cartao:hover .cartao--conteudo{
-background-color: brown;
+background-color: yellowgreen;
 transform: rotateY(180deg);
 }
 .cartao--resposta{
