@@ -1,3 +1,8 @@
+body{
+    background-image: url("./fundo.png");
+}
+
+
 .conteudo{
     display: flex;
 
@@ -29,9 +34,16 @@ transform: rotateY(180deg);
 }
 .cartao--conteudo{
     border-radius: 20px;
+    height: 63.2%;
+    width: 100.2%;
     transform-style: preserve-3d;
     transition: 350ms ease-in-out;
 
+}
+.cartao--pergunta img{
+    width: 40%;
+    margin-bottom: -20px;
+    
 }
 .cartao--pergunta h2 {
     margin-bottom: -10px;
@@ -44,5 +56,6 @@ transform: rotateY(180deg);
     transform: rotateY(180deg);
 }
 .PP {
+
 text-align: center;
 }
